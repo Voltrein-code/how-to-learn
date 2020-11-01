@@ -80,7 +80,7 @@
 .description {
   margin-top: 100px;
   display: flex;
-  justify-content: center;;
+  justify-content: center;
 }
 
 .two-columns {
@@ -125,7 +125,7 @@
 }
 
 .section-title {
-  margin: 100px auto 20px ;
+  margin: 100px auto 20px;
   width: 60%;
   font-size: 60px;
   line-height: 1.15;
@@ -213,7 +213,7 @@
 }
 
 .section-title_theme_dark {
-  margin: 0 auto 20px ;
+  margin: 0 auto 20px;
   width: 60%;
   font-size: 60px;
   line-height: 1.15;
