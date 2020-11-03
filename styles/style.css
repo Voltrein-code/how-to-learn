@@ -281,6 +281,8 @@
 .footer__author {
   width: fit-content;
   margin: 18px 0;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .footer__column_content_info {
@@ -300,6 +302,7 @@
   flex-direction: column;
   flex-wrap: wrap;
   list-style-type: none;
+  padding-left: 0;
 }
 
 .footer__link {
