@@ -6,8 +6,9 @@
   position: absolute;
   top: 50%;
   right: 48px;
+  transition: opacity 1s linear;
 }
 
 .feynman__link:hover {
-  text-decoration: underline;
+  opacity: 0.2;
 }
